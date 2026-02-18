@@ -1,0 +1,13 @@
+{
+	"n_targets": 197044,
+	"n_bootstraps": 0,
+	"n_processed": 23895937,
+	"n_pseudoaligned": 22431819,
+	"n_unique": 6363220,
+	"p_pseudoaligned": 93.9,
+	"p_unique": 26.6,
+	"kallisto_version": "0.46.1",
+	"index_version": 10,
+	"start_time": "Mon Jan 26 17:28:47 2026",
+	"call": "kallisto quant -i kallisto_hg38.idx -o output SRR36909580_1.fastq SRR36909580_2.fastq"
+}
